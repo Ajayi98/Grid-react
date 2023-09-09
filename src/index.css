@@ -33,7 +33,7 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(var(--numCols, 4), 1fr); 
-  gap: 25px;
+  gap: 5px;
   padding: 25px;
   width: 30px;
   margin-left: 10px;
